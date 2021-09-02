@@ -97,7 +97,7 @@ $ pkg install git
 $ git clone https://github.com/TheBlackLion17/Achumol
 $ cd Achumol
 $ chmod +x *
-$ npm install @adiwajshing/baileys
+$ npm install @theblacklion17/baileys
 $ npm install chalk
 $ node qr.js
 ```
@@ -125,7 +125,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![TheBlackLion17](https://github.com/TheBlackLion17.png?size=100)](https://github.com/TheBlackLion17) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
+  [![TheBlackLion17](https://github.com/TheBlackLion17.jpg?size=100)](https://github.com/TheBlackLion17) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
 ----|----|----
 [TheBlackLion17](https://github.com/TheBlackLion17)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2)
 Base, Bug Fixes, Modules |Â Modifiying  as   public | Bug Fixes, Modules
